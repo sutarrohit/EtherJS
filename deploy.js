@@ -7,7 +7,7 @@ async function main() {
 
   //Connect local Ganache blockchaim
   const provider = new ethers.providers.JsonRpcProvider(
-    "HTTP://127.0.0.1:7545"
+    "RPC Address"
   );
 
   //Provide Private key and connection
