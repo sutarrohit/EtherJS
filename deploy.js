@@ -12,7 +12,7 @@ async function main() {
 
   //Provide Private key and connection
     const wallet = new ethers.Wallet(
-        "52474eec09ced9cd3c3a633a2742d6c63af232121f627ca2743a5443d463853d",
+        "Private key",
         provider
     );
 */
